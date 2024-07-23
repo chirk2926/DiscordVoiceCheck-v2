@@ -10,3 +10,5 @@ const TOKEN と const CHANNEL_IDにトークンとチャンネルIDを入力し�
 `node index.js`
 
 discord.js@v13で作ってます。
+
+![image](https://github.com/user-attachments/assets/ee575605-8eb9-4337-9dc6-fe8f8abb46a3)
